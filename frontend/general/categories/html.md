@@ -1,7 +1,10 @@
 <h1 align="center">HTML</h1>
+
 - HTML is the standard markup language for Web pages.
+- 
 ## Basics
-``html
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,7 +17,8 @@
 
 </body>
 </html>
-``
+```
+
 * The <!DOCTYPE html> declaration defines that this document is an HTML5 document
 * The <html> element is the root element of an HTML page
 * The <head> element contains meta information about the HTML page
@@ -22,6 +26,7 @@
 * The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 * The <h1> element defines a large heading
 * The <p> element defines a paragraph
+  
 # Emmet Forms
 # Semantic HTML
 # SEO Basics
