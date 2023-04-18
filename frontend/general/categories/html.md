@@ -31,7 +31,9 @@
 ## Emmet 
 ## Forms
 ## Semantic HTML
+
 <img alt="Night Coding" src="https://www.w3schools.com/html/img_sem_elements.gif" align="center"/>
+
 ```html
 <article>
 <aside>
@@ -47,4 +49,5 @@
 <summary>
 <time>
 ```
+
 ## SEO Basics
