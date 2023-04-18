@@ -4,7 +4,7 @@
 
 ## Basics
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,6 +28,23 @@
 * The ```<p>``` element defines a paragraph .
   
   
-## Emmet Forms
+## Emmet 
+## Forms
 ## Semantic HTML
+<img alt="Night Coding" src="https://www.w3schools.com/html/img_sem_elements.gif" align="center"/>
+```html
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+```
 ## SEO Basics
