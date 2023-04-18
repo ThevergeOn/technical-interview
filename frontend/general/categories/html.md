@@ -29,9 +29,9 @@
   
 * The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
   
-* The ```html <h1> ``` element defines a large heading .
+* The ```<h1>``` element defines a large heading .
   
-* The <p> element defines a paragraph .
+* The ```<p>``` element defines a paragraph .
   
   
 ## Emmet Forms
